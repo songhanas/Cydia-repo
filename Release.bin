@@ -1,7 +1,0 @@
-Origin: Songhanas Repo
-Label: Songhanas Repo
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Description: Cydia repository for TLS 1.2 patch
